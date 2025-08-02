@@ -40,5 +40,4 @@ This project marks my first real-world web automation effort and taught me how t
 
 ---
 
-## 📁 Project Structure
 
